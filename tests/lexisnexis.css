@@ -1,0 +1,97 @@
+:root {
+  
+  --ln_bg: #EAEDF0; /* default bg color */
+  --ln_white: #FFF;
+  --ln_black: #333;
+  
+  /* blue settings: dark to light */
+  --ln_blue: #0b7990; /* 009DDB */
+  --ln_blue02: #3c94a6;
+  --ln_blue03: #6dafbc;
+  --ln_blue04: #9dc9d3;
+  --ln_blue05: #cff4fc;
+  --ln_blue06: #055160; /* super dark */
+  --ln_blue07: #0DCAF0; /* bright */
+  --ln_blue_hover: #0085B9;
+  /* end blue settings: dark to light */
+
+  /* green settings: dark to light */
+  --ln_green: #0e8a0e; /* 14C414 */
+  --ln_green02: #32EA32;
+  --ln_green03: #6FF16F;
+  --ln_green04: #ADF7AD;
+  --ln_green05: #EBFDEB;
+  --ln_green06: #0A680A; /* super dark */
+  --ln_green_card: #eefbee;
+  /* end green settings: dark to light */
+
+  /* red settings: dark to light */
+  --ln_red: #E12726;
+  --ln_red02: #990000;
+  --ln_red03: #b00;
+  --ln_red04: #d00;
+  --ln_red05: #f00;
+  --ln_red06: #F8D7DA; /* light */
+  /* end red settings: dark to light */
+
+  /* grey settings: dark to light */
+  --ln_grey: #939598;
+  --ln_grey02: #BCBEC0;
+  --ln_grey03: #D7D8D9;
+  --ln_grey04: #EFEFEF;
+  --ln_grey05: #F8F8F8;
+  --ln_grey06: #6C757D; /* dark */
+  --ln_grey07: #2B2F32; /* super dark */
+  --ln_grey08: #EAECF0;
+  --ln_grey09: #DEE2E6; /* card border color */
+  /* end grey settings: dark to light */
+  
+  /* purple settings: dark to light */
+  --ln_purple: #8F2B8C;
+  --ln_purple02: #B06AAE;
+  --ln_purple03: #C795C5;
+  --ln_purple04: #C795C5;
+  --ln_purple05: #EEDDEE;
+  /* end purple settings: dark to light */
+  
+  /* yellow settings: dark to light */
+  --ln_yellow: #FFC107;
+  --ln_yellow02: #FFDB67;
+  --ln_yellow03: #FFE389;
+  --ln_yellow04: #FFEBAB;
+  --ln_yellow05: #FFF3CD;
+  --ln_yellow06: #664D03; /* super dark */
+  --ln_yellow07: #8A6700;
+  /* end yellow settings: dark to light */
+  
+  /* buttons */
+  --btn_primary: #0b7990;
+  --btn_primary_hover: #085565;
+  --btn_primary_active: #04303a;
+  
+  --btn_secondary: #ffffff;
+  --btn_secondary_hover: #5C646B;
+  --btn_secondary_active: #4C5359;
+  
+  --btn_danger: #E12726;
+  --btn_danger_hover: #B70E15;
+  --btn_danger_active: #78090E;
+  
+  --btn_aux: #8F2B8C;
+  --btn_aux_hover: #752372;
+  --btn_aux_active: #5B1B59;
+
+  --btn-disabled-color: #fff;
+  --btn-disabled-bg: #6dafbc;
+  --btn-disabled-border-color: #6dafbc;
+  
+  /* end buttons */
+  
+  /* table settings */
+  --table_header: #fff;
+  /* end table settings */
+
+  --filter_background: #EAEDF0;
+  
+}
+

@@ -11,8 +11,8 @@
 					"color": { "solid": { "color": "#000000"}},
 					"labelDisplayUnits": "0",
 					"labelPrecision": 0,
-					"fontSize": 10,
-					"fontFamily": "Verdana"
+					"fontSize": 12,
+					"fontFamily": "Segoe UI"
 				}],
 				"categoryLabels": [{
 					"show": true,

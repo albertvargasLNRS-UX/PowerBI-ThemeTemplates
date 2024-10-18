@@ -1,0 +1,186 @@
+﻿{
+  "name": "Investment Hub v1",
+  "dataColors": [
+	"#283250",
+	"#3274D8",
+	"#F05440",
+	"#FFBC42",
+	"#F4F7F7",
+	"#9E9E9E",
+	"#F44336",
+	"#65B307",
+	"#3599B8",
+	"#DFBFBF",
+	"#4AC5BB",
+	"#5F6B6D",
+	"#FB8281",
+	"#F4D25A",
+	"#7F898A",
+	"#A4DDEE",
+	"#FDAB89",
+	"#B687AC",
+	"#28738A",
+	"#A78F8F",
+	"#168980",
+	"#293537",
+	"#BB4A4A",
+	"#B59525",
+	"#475052",
+	"#6A9FB0",
+	"#BD7150",
+	"#7B4F71",
+	"#1B4D5C",
+	"#706060",
+	"#0F5C55",
+	"#1C2325"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#002F6C",
+  "tableAccent": "#002F6C",
+  "bad": "#F44336",
+  "neutral": "#B2BEBF",
+  "good": "#4CAF50",
+  "textClasses": {
+	"label": {
+	  "fontFace": "'Segoe UI Semibold', wf_segoe-ui_semibold, helvetica, arial, sans-serif",
+	  "color": "#1F1F1F"
+	},
+	"header": {
+	  "fontFace": "'Segoe UI Bold', wf_segoe-ui_bold, helvetica, arial, sans-serif",
+	  "color": "#FFFFFF",
+	  "fontSize": 14
+	},
+	"callout": {
+	  "color": "#1F1F1F",
+	  "fontSize": 45,
+	  "fontFace": "'Segoe UI Semibold', wf_segoe-ui_semibold, helvetica, arial, sans-serif"
+	},
+	"title": {
+	  "color": "#1F1F1F",
+	  "fontFace": "'Segoe UI Semibold', wf_segoe-ui_semibold, helvetica, arial, sans-serif"
+	}
+  },
+  "visualStyles": {
+	"*": {
+	  "*": {
+		"border": [
+		  {
+			"show": true,
+			"color": {
+			  "solid": {
+				"color": "#BABABA"
+			  }
+			},
+			"radius": 1
+		  }
+		],
+		"visualHeader": [
+		  {
+			"background": {
+			  "solid": {
+				"color": "#4C4C4C"
+			  }
+			},
+			"foreground": {
+			  "solid": {
+				"color": "#FFFFFF"
+			  }
+			}
+		  }
+		],
+		"outspacePane": [
+		  {
+			"backgroundColor": {
+			  "solid": {
+				"color": "#000000"
+			  }
+			},
+			"transparency": 18,
+			"foregroundColor": {
+			  "solid": {
+				"color": "#FFFFFF"
+			  }
+			}
+		  }
+		]
+	  }
+	},
+	"page": {
+	  "*": {
+		"outspace": [
+		  {
+			"color": {
+			  "solid": {
+				"color": "#FAFAFA"
+			  }
+			}
+		  }
+		]
+	  }
+	}
+  },
+  "customStyles": {
+	"ln_bg": "#EAEDF0",
+	"ln_white": "#FFF",
+	"ln_black": "#333",
+	"ln_blue": "#0b7990",
+	"ln_blue02": "#3c94a6",
+	"ln_blue03": "#6dafbc",
+	"ln_blue04": "#9dc9d3",
+	"ln_blue05": "#cff4fc",
+	"ln_blue06": "#055160",
+	"ln_blue07": "#0DCAF0",
+	"ln_blue_hover": "#0085B9",
+	"ln_green": "#0e8a0e",
+	"ln_green02": "#32EA32",
+	"ln_green03": "#6FF16F",
+	"ln_green04": "#ADF7AD",
+	"ln_green05": "#EBFDEB",
+	"ln_green06": "#0A680A",
+	"ln_green_card": "#eefbee",
+	"ln_red": "#E12726",
+	"ln_red02": "#990000",
+	"ln_red03": "#b00",
+	"ln_red04": "#d00",
+	"ln_red05": "#f00",
+	"ln_red06": "#F8D7DA",
+	"ln_grey": "#939598",
+	"ln_grey02": "#BCBEC0",
+	"ln_grey03": "#D7D8D9",
+	"ln_grey04": "#EFEFEF",
+	"ln_grey05": "#F8F8F8",
+	"ln_grey06": "#6C757D",
+	"ln_grey07": "#2B2F32",
+	"ln_grey08": "#EAECF0",
+	"ln_grey09": "#DEE2E6",
+	"ln_purple": "#8F2B8C",
+	"ln_purple02": "#B06AAE",
+	"ln_purple03": "#C795C5",
+	"ln_purple04": "#C795C5",
+	"ln_purple05": "#EEDDEE",
+	"ln_yellow": "#FFC107",
+	"ln_yellow02": "#FFDB67",
+	"ln_yellow03": "#FFE389",
+	"ln_yellow04": "#FFEBAB",
+	"ln_yellow05": "#FFF3CD",
+	"ln_yellow06": "#664D03",
+	"ln_yellow07": "#8A6700",
+	"btn_primary": "#0b7990",
+	"btn_primary_hover": "#085565",
+	"btn_primary_active": "#04303a",
+	"btn_secondary": "#ffffff",
+	"btn_secondary_hover": "#5C646B",
+	"btn_secondary_active": "#4C5359",
+	"btn_danger": "#E12726",
+	"btn_danger_hover": "#B70E15",
+	"btn_danger_active": "#78090E",
+	"btn_aux": "#8F2B8C",
+	"btn_aux_hover": "#752372",
+	"btn_aux_active": "#5B1B59",
+	"btn_disabled_color": "#fff",
+	"btn_disabled_bg": "#6dafbc",
+	"btn_disabled_border_color": "#6dafbc",
+	"table_header": "#fff",
+	"filter_background": "#EAEDF0"
+  }
+}

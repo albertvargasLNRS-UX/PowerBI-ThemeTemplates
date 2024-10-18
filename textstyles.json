@@ -1,0 +1,101 @@
+{
+  "name": "Text Styles",
+  "dataColors": [
+    "#E12726",
+    "#000000",
+    "#444444",
+    "#666666",
+    "#F7F7F7",
+    "#FFFFFF",
+    "#00778B",
+    "#03427B",
+    "#5E2880"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#000000",
+  "tableAccent": "#E12726",
+  "good": "#00778B",
+  "neutral": "#666666",
+  "bad": "#E12726",
+  "maximum": "#03427B",
+  "center": "#666666",
+  "minimum": "#5E2880",
+  "null": "#F7F7F7",
+  "textClasses": {
+    "callout": {
+      "fontSize": 45,
+      "fontFace": "Segoe UI Light",
+      "color": "#000000"
+    },
+    "title": {
+      "fontSize": 12,
+      "fontFace": "Segoe UI",
+      "color": "#000000"
+    },
+    "header": {
+      "fontSize": 12,
+      "fontFace": "Segoe UI Light",
+      "color": "#000000"
+    },
+    "label": {
+      "fontSize": 10,
+      "fontFace": "Segoe UI",
+      "color": "#444444"
+    }
+  },
+  "visualStyles": {
+    "tableEx": {
+      "*": {
+        "stylePreset": [
+          {
+            "name": "TableStyle"
+          }
+        ],
+        "grid": [
+          {
+            "gridVertical": true,
+            "gridVerticalColor": {
+              "solid": {
+                "color": "#666666"
+              }
+            },
+            "gridHorizontal": true,
+            "gridHorizontalColor": {
+              "solid": {
+                "color": "#666666"
+              }
+            }
+          }
+        ],
+        "headerRow": [
+          {
+            "fontColor": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "backColor": {
+              "solid": {
+                "color": "#E12726"
+              }
+            }
+          }
+        ],
+        "totals": [
+          {
+            "fontColor": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "backColor": {
+              "solid": {
+                "color": "#000000"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
